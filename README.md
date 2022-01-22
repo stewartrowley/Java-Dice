@@ -30,8 +30,8 @@ I used the Java language and the scanner and array imports.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](sololearn.com)
-* [Web Site Name](w3schools.com)
+* [sololearn](https://www.sololearn.com/)
+* [w3schools](https://www.w3schools.com/)
 
 # Future Work
 
